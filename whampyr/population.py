@@ -1,6 +1,6 @@
 
-from Distribution import Dirac
-from Distribution import Maxwellian
+from .distribution import Dirac
+from .distribution import Maxwellian
 
 
 
